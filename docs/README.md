@@ -6,4 +6,5 @@
 |--------------------------------------------------|-----------------------------------------------------|
 | [rpd.md](rpd.md)                                 | рабочая программа дисциплины                 |
 | [quality-checklist.md](quality-checklist.md)     | проверка готовности репозитория к публикации        |
-| [LLM-rules-for-students.md.md](LLM-rules-for-students.md.md)     | правила использования LLM для студентов        |
+| [LLM-rules-for-students.md](LLM-rules-for-students.md.md)     | правила использования LLM для студентов        |
+| [LLM-rules-for-administration.md](LLM-rules-for-students.md)     | Шаблон документа об использования LLM для административных работников       |
