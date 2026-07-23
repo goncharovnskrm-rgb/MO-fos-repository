@@ -75,6 +75,7 @@
 ├── docs/
 ├── M1-Supervised-learning-methods/
 ├── M2-Unsupervised-learning-methods/
+├── M3-Improving-ml-model-efficiency
 ├── Project/
 ├── Exam/
 ├── methodical-guidelines/
