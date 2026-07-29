@@ -6,7 +6,7 @@
 |---|---|---|
 | Учебники | [textbooks](textbooks/README.md) | базовые и дополнительные учебные материалы |
 | Банки тестов | [test-banks](test-banks/README.md) | текущий и промежуточный контроль |
-| Банки задач | [problem-banks](problem-banks/README.md) | практические, расчетные и кейсовые задания |
+| Банки задач | [problem-banks](../Project/attachments/cases-kpk.pdf) | практические, расчетные и кейсовые задания |
 | Датасеты | [datasets](datasets/README.md) | учебные и проектные данные |
 | Python-библиотеки | [software/python-libs](software/python-libs/README.md) | программная реализация и автоматическая проверка |
 | Прочее | [other](other/README.md) | справочники, сервисы и иные материалы |
