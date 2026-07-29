@@ -10,7 +10,6 @@
 | Датасеты | [datasets](datasets/README.md) | учебные и проектные данные |
 | Бенчмарки | [benchmarks](benchmarks/README.md) | сравнение методов и оценка качества |
 | Python-библиотеки | [software/python-libs](software/python-libs/README.md) | программная реализация и автоматическая проверка |
-| LLM и промпты | [llm-prompts](llm-prompts/README.md) | генерация, анализ и оценивание с применением БЯМ |
 | Прочее | [other](other/README.md) | справочники, сервисы и иные материалы |
 
 ## Единая карточка ресурса
